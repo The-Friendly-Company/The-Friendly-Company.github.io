@@ -16,10 +16,9 @@ export default function Login() {
       subtitle={
         <>
           Don’t have an account?{' '}
-          <Link href="/register" className="text-cyan-600">
+          <Link href="/register" className="text-pink-500">
             Sign up
           </Link>{' '}
-          for a free trial.
         </>
       }
     >
